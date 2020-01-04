@@ -1,5 +1,7 @@
 import React from "react";
 
-const aboutMe = props => <h1>AboutMe section</h1>;
+import "../../scss/AboutMe.scss";
+
+const aboutMe = props => <h1 className="AboutMe">AboutMe section</h1>;
 
 export default aboutMe;
