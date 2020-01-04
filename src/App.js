@@ -6,7 +6,7 @@ import MySite from "./containers/MySite/MySite";
 function App() {
   return (
     <div className="App">
-      <h1>Site in progres...</h1>
+      <h1 className="SiteInProgres">Site in progres...</h1>
       <MySite />
     </div>
   );
