@@ -1,6 +1,6 @@
 import React from "react";
 
-import "../../scss/AboutMe.scss";
+import "../../scss/components/AboutMe.scss";
 
 const aboutMe = props => <h1 className="AboutMe">AboutMe section</h1>;
 
