@@ -1,5 +1,7 @@
 import React from "react";
 
-const navigation = props => <nav>Navigation !!!</nav>;
+import "../../scss/components/Navigation.scss";
+
+const navigation = props => <nav className="Navigation">Navigation !!!</nav>;
 
 export default navigation;
