@@ -2,6 +2,6 @@ import React from "react";
 
 import "../../scss/components/Contact.scss";
 
-const contact = () => <h1 className="Contact">Contact component</h1>;
+const contact = () => <div className="Contact">Contact component</div>;
 
 export default contact;
