@@ -3,8 +3,8 @@ import React from "react";
 import "../../scss/components/Navigation.scss";
 
 const navigation = props => (
-  <div>
-    <nav className="Navigation">Navigation !!!</nav>
+  <div className="Navigation">
+    <nav>Navigation !!!</nav>
   </div>
 );
 
