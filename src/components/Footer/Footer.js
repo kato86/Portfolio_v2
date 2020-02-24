@@ -8,7 +8,7 @@ const footer = props => (
     <div>GitHub</div>
     <div>LinkedIn</div>
     <div>Facebook</div>
-    <div>Pinterest</div>
+    <div>Instagram</div>
   </footer>
 );
 
