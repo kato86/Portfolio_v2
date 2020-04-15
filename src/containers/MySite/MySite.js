@@ -1,11 +1,5 @@
 import React from "react";
 
-import AboutMe from "../../components/AboutMe/AboutMe";
-
-const mySite = (props) => (
-  <div>
-    <AboutMe />
-  </div>
-);
+const mySite = (props) => <div></div>;
 
 export default mySite;
