@@ -1,8 +1,6 @@
 import React from "react";
 
-import "../../scss/components/Navigation.scss";
-
-const navigation = props => (
+const navigation = (props) => (
   <div className="Navigation">
     <nav>Navigation !!!</nav>
   </div>
