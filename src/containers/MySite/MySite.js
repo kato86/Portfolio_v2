@@ -1,5 +1,11 @@
 import React from "react";
 
-const mySite = (props) => <div></div>;
+import Start from "../../components/Start/Start";
+
+const mySite = (props) => (
+  <div>
+    <Start />
+  </div>
+);
 
 export default mySite;
